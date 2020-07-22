@@ -1,9 +1,0 @@
-{
-    "project_id": "infra-271212",
-    "source_image_family": "reddit-base-1586984818",
-    "image_description": "Image for homework 5",
-    "disk_size": "10",
-    "disk_type": "pd-standard",
-    "network": "default",
-    "tags": "puma-server"
-}
